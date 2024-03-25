@@ -1,0 +1,31 @@
+
+.Kartica1 {
+    background-color: green;
+    height: 700px;
+    width: 300px;
+    position: absolute;
+}
+
+.Kartica2 {
+    background-color: green;
+    height: 700px;
+    width: 300px;
+    position: absolute;
+    left: 350px;
+}
+
+.Kartica3 {
+    background-color: green;
+    height: 700px;
+    width: 300px;
+    position: absolute;
+    left: 700px;
+}
+
+.Kartica4 {
+    background-color: green;
+    height: 700px;
+    width: 300px;
+    position: absolute;
+    left: 1050px;
+}
